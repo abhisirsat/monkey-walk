@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    border: dashed;
+  }
+  body {
+    background-color: pink;
+    color: green;
+    border: solid;
+    text-align: center;
+  }
+  #album {
+    height: 350px;
+  }
+  button {
+    background-color: red;
+    color: black;
+    border: dotted;
+  }
+  
